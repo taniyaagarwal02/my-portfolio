@@ -32,7 +32,7 @@ const Sidebar = () => {
         <div className="text-orange-300 flex items-center space-x-3">
           <Linkedin className="w-5 h-5" />
           <a
-            href="https://www.linkedin.com/in/taniya-agarwal1108?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/taniya-agarwal1108"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-blue-400 transition duration-300"
@@ -66,7 +66,7 @@ const Sidebar = () => {
           <Github className="w-6 h-6 hover:text-blue-400 transition duration-300" />
         </a>
         <a
-          href="https://www.linkedin.com/in/taniya-agarwal1108?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          href="https://www.linkedin.com/in/taniya-agarwal1108"
           target="_blank"
           rel="noopener noreferrer"
         >
